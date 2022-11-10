@@ -8,3 +8,4 @@
 
 3. Click submit and Google will crawl your newly created XML sitemap.
 
+*(FOR THIS THE PERMISSION FROM ET SITE ADMIN IS REQUIRED)*
