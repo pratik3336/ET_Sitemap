@@ -1,0 +1,90 @@
+<sitemapindex xmlns=”https://www.et.iitb.ac.in/″>
+    <url>
+    <sitemap>
+        <loc>https://www.et.iitb.ac.in/about-us/vision-and-mission</loc>
+        <priority>1.0</priority>
+    </sitemap>
+    <sitemap>
+        <loc>https://www.et.iitb.ac.in/about-us/whos-who/convener </loc>
+    </sitemap>
+     <sitemap>
+        <loc> https://www.et.iitb.ac.in/about-us/facilities/labs</loc>
+        <priority>0.9</priority>
+    </sitemap>
+     <sitemap>
+        <loc>https://www.et.iitb.ac.in/about-us/awards </loc>
+        <priority>0.7</priority>
+    </sitemap>
+      <sitemap>
+        <loc> https://www.et.iitb.ac.in/about-us/annual-report</loc>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/academics/admission/phd </loc>
+        <priority>0.8</priority>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/academics/courses </loc>
+        <priority>0.6</priority>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/academics/placement </loc>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/research/focus-areas </loc>
+        <priority>0.5</priority>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/research/publications/2022 </loc>
+    </sitemap>
+      <sitemap>
+        <loc> https://www.et.iitb.ac.in/research/phd-thesis</loc>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/research/sponsored-lab </loc>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/products/open-learning </loc>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/products/tel-environment </loc>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/products/teaching-resources </loc>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/products/tools-for-teachers </loc>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/products/research-resources </loc>
+    </sitemap>
+      <sitemap>
+        <loc>https://www.et.iitb.ac.in/products/handbooks </loc>
+    </sitemap>
+      <sitemap>
+        <loc> https://www.et.iitb.ac.in/products/e-books</loc>
+        <priority>0.4</priority>
+    </sitemap>
+     <sitemap>
+        <loc>https://www.et.iitb.ac.in/activities/professional </loc>
+    </sitemap>
+     <sitemap>
+        <loc>https://www.et.iitb.ac.in/activities/department </loc>
+        <priority>0.3</priority>
+    </sitemap>
+     <sitemap>
+        <loc>https://www.et.iitb.ac.in/people/faculty/core </loc>
+    </sitemap>
+     <sitemap>
+        <loc>https://www.et.iitb.ac.in/people/postdoc </loc>
+    </sitemap>
+     <sitemap>
+        <loc>https://www.et.iitb.ac.in/people/students/phd </loc>
+    </sitemap>
+     <sitemap>
+        <loc> https://www.et.iitb.ac.in/people/alumni/phd</loc>
+    </sitemap>
+     <sitemap>
+        <loc>https://www.et.iitb.ac.in/people/staff/academic </loc>
+    </sitemap>
+</url>
+</sitemapindex>
