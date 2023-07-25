@@ -1,8 +1,11 @@
 # ET_Sitemap
 
+This sitemap was developed in my internship in Indian Institute Of Technology Mumbai .
+The www.et.iitb.ac.in is the official website of the Educational Technology department at IIT Bombay. This website showcases multiple labs that facilitate research and development of Educational Technology. 
 
-The www.et.iitb.ac.in is the official website of the Educational Technology department at IIT Bombay. This website showcases multiple labs that facilitate research and development of Educational Technology. The ET IITB website shows the collaborative research and development work by Ph.D. research scholars in emerging technology areas, as well as showcases state-of-the-art infrastructure like Virtual Reality HMDs, 3D printers, physical computing devices and high-end workstations.
-The site also shows the information on MTech and Ph.D. coursework to students along with admission details and projects and archives the published works of existing students and teachers. It also shows the products developed by the ET department.  
+The ET IITB website shows the collaborative research and development work by Ph.D. research scholars in emerging technology areas, as well as showcases state-of-the-art infrastructure like Virtual Reality HMDs, 3D printers, physical computing devices and high-end workstations.
+
+  
 Hence, to improve the SEO reach of the website, and also to make the website more accessible and more user friendly, development of Plugins, Sitemaps and Heatmaps is proposed and developed. These programs integrated into the website will not only improve the SEO ranking of this site but also improve the basic architecture and working of the site as well.
 
 
